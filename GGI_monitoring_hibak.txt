@@ -1,0 +1,38 @@
+
+Hiba ha közben az utolsó könyvtár törölve lett:
+
+Error: ENOENT: no such file or directory, scandir 'D:\Customer_Blast_to_Asc\2017
+-04-20-at-06-10-24'
+    at Error (native)
+    at Object.fs.readdirSync (fs.js:856:18)
+    at getLastCreatedDataFileName (D:\GGI_Monitoring\Core.js:77:19)
+    at checkDataAcquisition (D:\GGI_Monitoring\Core.js:26:49)
+    at Object.<anonymous> (D:\GGI_Monitoring\Core.js:21:1)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+
+
+
+Hiba ha az utolsó könyvtár üres:
+
+D:\GGI_Monitoring>node.exe Core.js
+D:/Customer_Blast_to_Asc/2017-04-20-at-06-10-24/undefined
+fs.js:892
+  return binding.stat(pathModule._makeLong(path));
+                 ^
+
+Error: ENOENT: no such file or directory, stat 'D:\Customer_Blast_to_Asc\2017-04
+-20-at-06-10-24\undefined'
+    at Error (native)
+    at Object.fs.statSync (fs.js:892:18)
+    at checkDataAcquisition (D:\GGI_Monitoring\Core.js:27:31)
+    at Object.<anonymous> (D:\GGI_Monitoring\Core.js:21:1)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:146:18)

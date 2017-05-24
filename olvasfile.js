@@ -1,0 +1,23 @@
+var fs = require('fs');
+var readBatFile = require("./readBatchbatfile.js");
+var batc_bat_name= 'D:/Customer_Blast_to_Asc/Blast Batch 200 YmdHms.bat';
+//var rootDir='D:/Customer_Blast_to_Asc';
+var rootDir="";
+var timeSeconds;
+var konyvtar;
+var emails;
+var kuszob;
+var cp;
+var timer= fs.readFileSync('config.txt', "utf-8").toString().split('\n');
+timeSeconds = timer[1].slice(8,timer[1].length);
+rootDir = timer[2].slice(12,timer[2].length);
+kuszob = parseInt(timer[3].slice(15,timer[3].length));
+console.log(typeof (kuszob));
+var kuzsobe = parseInt(kuszob);
+emails = timer[4].slice(13,timer[4].length);
+console.log(rootDir);
+konyvtar = readBatFile.readbatfile(batc_bat_name);
+
+rootDir = rootDir.trim() + '/' + konyvtar;
+console.log(rootDir);
+console.log(emails);

@@ -1,0 +1,5 @@
+Adatgy�jt� param�terez�s�nek be�ll�t�sai: 
+Id�k�z: 10000
+Rootfolder: D:/Customer_Blast_to_Asc
+K�sz�b�r�rt�k: 5
+Email c�mek: dzsi1994@gmail.com

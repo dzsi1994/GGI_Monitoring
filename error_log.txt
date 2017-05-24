@@ -1,0 +1,347 @@
+2017-05-22 14:39:26: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:39:56: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Sikertelen újraindítás: 
+2017-05-22 14:41:30: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000014.fw4
+2017-05-22 14:42:00: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000014.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+2017-05-22 14:42:43: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000014.fw4
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:43:03: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:45:19: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-56
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-56
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-61
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:53:35: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+2017-05-22 14:53:55: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:54:15: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+2017-05-22 14:54:25: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 14:55:46: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-22 14:56:06: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+A bat fájl nem helyesen jött létre: 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-22 15:07:59: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+A bat fájl nem helyesen jött létre: 
+A bat fájl nem helyesen jött létre: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/null
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Sikertelen újraindítás: 
+Nincs létezik a bat fájl. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-22 17:35:58: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+2017-05-22 17:36:18: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+2017-05-22 17:37:38: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+2017-05-22 17:38:12: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-22 17:39:12: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Nincs bat fájl a könyvtárban: 
+Nincs bat fájl a könyvtárban: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+2017-05-22 17:39:52: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-53/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+2017-05-22 17:40:22: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-54/000000004.fw4
+Sikertelen újraindítás: 
+ Sikertelen újraindítás Nincs fájl a könyvtárban: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-49
+ Sikertelen újraindítás Nincs fájl a könyvtárban: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-49
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-22 17:41:52: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+2017-05-22 19:39:18: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+2017-05-23 08:58:31: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+2017-05-23 08:58:55: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+2017-05-23 08:59:30: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-23 09:01:12: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000014.fw4
+2017-05-23 09:02:29: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000015.fw4
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000015.fw4
+2017-05-23 10:59:48: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000015.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-23 11:00:28: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000015.fw4
+2017-05-23 11:01:58: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-51/000000015.fw4
+Sikertelen újraindítás: 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Sikertelen újraindítás: 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+valami gáz van a bat file-lal. 
+valami gáz van a bat file-lal. 
+Nincs bat fájl a könyvtárban: 
+Nincs bat fájl a könyvtárban: 
+Nincs bat fájl a könyvtárban: 
+Nincs bat fájl a könyvtárban: 
+Nincs bat fájl a könyvtárban: 
+Nem létezeik ilyen könyvtár a fájlok keresésére: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-50
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Sikertelen újraindítás: 
+Adatgyűjtés újraindítása után első futási eredmények: D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
+2017-05-23 17:40:25: Adatgyűjtés leállt, újraindítási kísérlet. Utolsó adatfájl : D:/Customer_Blast_to_Asc/2016-09-28-at-23-39-55/000000004.fw4
